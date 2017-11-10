@@ -74,23 +74,14 @@ def turtleLetter(letter,tur):
     elif letter == "L":
 	    pass
     elif letter == "M":
+	
+	 
+				
 	    pass
     elif letter == "N":
 	    pass
     elif letter == "O":
-	tur.setheading(0)
-        tur.penup()
-        tur.forward(20)
-        tur.right(90)
-        tur.forward(48)
-        tur.left(90)
-        tur.pendown()
-        tur.circle(18)
-        tur.penup()
-        tur.left(90)
-        tur.forward(48)
-        tur.right(90)
-        tur.forward(20)
+	    pass
     elif letter == "P":
 	    pass		
     elif letter == "Q":
@@ -146,25 +137,7 @@ def turtleLetter(letter,tur):
     elif letter == "X":
 	    pass
     elif letter == "Y":
-	tur.setheading(0)
-        tur.penup()
-        tur.forward(4)
-        tur.right(90)
-        tur.forward(10)
-        tur.left(45)
-        tur.pendown()
-        tur.forward(23)
-        tur.left(90)
-        tur.forward(23)
-        tur.right(180)
-        tur.forward(23)
-        tur.right(315)
-        tur.forward(23)
-        tur.penup()
-        tur.right(180)
-        tur.forward(50)
-        tur.right(90)
-        tur.forward(20)
+	    pass
     elif letter == "Z":
 	    pass		
 
